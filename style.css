@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&display=swap');
+
+body {
+
+    background-color: aquamarine;
+
+}
+
+
+
+h2 {
+
+    display: flex;
+    justify-content: center;
+    font-family: Oswald;
+    font-weight: 700;
+
+
+}
+
+h3 {
+
+    display: flex;
+    justify-content: center;
+    font-family: Oswald;
+    font-weight: 700;
+
+
+}
+
+
+button {
+
+    display: flex;
+    margin: 0 auto;
+    color: aqua;
+    background-color: black;
+    width: 55px;
+    height: 30px;
+    font-family: Oswald;
+    font-weight: 500;
+}
+
+#n {
+
+    display: flex;
+    justify-content: center;
+    font-family: Oswald;
+    font-weight: 700;
+
+}
